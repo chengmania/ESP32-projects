@@ -12,8 +12,8 @@
 #include <Adafruit_SSD1306.h>
 
 // network credentials
-const char* ssid = "CasaDeOffice";
-const char* password = "partyman1981";
+const char* ssid = "add yours here";
+const char* password = "add yours here";
 
 
 // DHT Sensor setup
